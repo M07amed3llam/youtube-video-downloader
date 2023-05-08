@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video Downloader", "Video Downloader\Video Downloader.csproj", "{7BEEEE5F-BB96-4AB0-80D7-F3FD39C80CA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BEEEE5F-BB96-4AB0-80D7-F3FD39C80CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEEEE5F-BB96-4AB0-80D7-F3FD39C80CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEEEE5F-BB96-4AB0-80D7-F3FD39C80CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEEEE5F-BB96-4AB0-80D7-F3FD39C80CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {535C1805-7F2E-470F-9C39-15944E668FBF}
+	EndGlobalSection
+EndGlobal
